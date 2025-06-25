@@ -13,3 +13,6 @@ Dependencies (install them with pip):
 - https://pypi.org/project/inotify/
 
 Let me know if i missed anything
+
+
+Update: Don't use this, this is p bad. Check out my other project [yawns](https://github.com/ikz87/yawns)
